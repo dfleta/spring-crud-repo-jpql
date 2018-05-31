@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "jpa_basic",
+            "projectName": "jpa_basic",
+            "workingDirectory": "/home/david/Escritorio/cursos/Spring_i_Dades/setmana_3/vs_code/12_setmana_3_exercici_gelpi",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "jpa_basic",
+            "projectName": "jpa_basic",
+            "workingDirectory": "/home/david/Escritorio/cursos/Spring_i_Dades/setmana_3/vs_code/12_setmana_3_exercici_gelpi",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
